@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 //include library yang diperlukan
-int totalNilai;
+float totalNilai;
 int totalSKS;
 int umur;
 long long NRP;
@@ -55,7 +55,7 @@ float kalkulasi_ip(float *matkul, int *sks, int n)
         totalNilai += matkul[i] * sks[i];  
         totalSKS += sks[i];
     }
-    return totalNilai / totalSKS; 
+    return (float) totalNilai / totalSKS; 
 }
 
 
