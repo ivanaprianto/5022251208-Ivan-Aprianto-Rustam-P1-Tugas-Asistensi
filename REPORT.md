@@ -21,6 +21,7 @@ ini fungsi 1, tinggal baca itu commentnya
 ![other function](img/func2.png)
 
 fungsi 2, sama
+saya juga tambah (float) biar dijamin 100% no fake keluarannya float
 
 ### bonus 
 seperti yang bisa dilihat, saya penganut Allman indentation style, dimana tiap curly bracket menempati barisnya sendiri dan mengikuti indentasi parent functionnya.
