@@ -99,7 +99,7 @@ int main()
 	else if(matkul[i] > 100)
 	//added a lil touch
 	{
-	    printf("Nilai matkul tidak masuk akal");
+	    printf("Nilai matkul tidak masuk akal.\n");
 	    free(matkul);
             free(sks);
             return 0;
