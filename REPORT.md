@@ -3,6 +3,12 @@ seperti instruksi yang diberikan, saya telah membenarkan kode dan menambahkan be
 saya juga maaf keluarannya .out karena saya pengguna macos (harap compile sendiri)
 
 program dicompile gcc-17
+atau lebih tepatnya
+```
+Apple clang version 17.0.0 (clang-1700.0.13.5)
+Target: arm64-apple-darwin24.6.0
+Thread model: posix
+```
 
 # CODE
 
