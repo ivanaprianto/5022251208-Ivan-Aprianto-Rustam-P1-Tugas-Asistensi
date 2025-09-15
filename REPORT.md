@@ -1,6 +1,8 @@
 # halo
 seperti instruksi yang diberikan, saya telah membenarkan kode dan menambahkan beberapa fitur, tapi sebelum mulai saya ingin minta maaf atas tampilan yang membosankan, karena saya edit pake nano di terminal saya
 
+# CODE
+
 ## deklarasi
 ![declarations](img/declarations.png)
 
@@ -20,6 +22,9 @@ ini fungsi 1, tinggal baca itu commentnya
 
 fungsi 2, sama
 
+### bonus 
+seperti yang bisa dilihat, saya penganut Allman indentation style, dimana tiap curly bracket menempati barisnya sendiri dan mengikuti indentasi parent functionnya.
+
 ## main
 ![int main, first image](img/main.png)
 
@@ -33,5 +38,14 @@ lalu ada beberapa modifikasi di bagian for loop utama
 pertama, operator && saya ganti jadi ||, karena jika menggunakan && saya masih bisa aja bikin salah satu nilainya negatif
 kedua ya saya tambahin limit buat nilai matkul (100), ga ada limit sks karena saya lupa sks paling gede berapa
 
-### bonus 
-seperti yang bisa dilihat, saya penganut Allman indentation style, dimana tiap curly bracket menempati barisnya sendiri dan mengikuti indentasi parent functionnya.
+# OUTPUT
+
+## FAIL
+![failure](img/failures.png)
+
+inilah dua kasus yang akan menggagalkan program.
+
+## SUCCESS
+![umazing](img/success.png)
+
+dan ini contoh keberhasilan
