@@ -21,4 +21,4 @@ ini fungsi 1
 fungsi 2
 
 ### bonus 
-seperti yang bisa dilihat, saya penganut indentation style GNU, dimana tiap curly bracket menempati barisnya sendiri dan mengikuti indentasi parent functionnya.
+seperti yang bisa dilihat, saya penganut Allman indentation style, dimana tiap curly bracket menempati barisnya sendiri dan mengikuti indentasi parent functionnya.
