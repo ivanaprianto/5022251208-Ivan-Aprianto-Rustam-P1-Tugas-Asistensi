@@ -30,7 +30,7 @@ seperti yang bisa dilihat, saya penganut Allman indentation style, dimana tiap c
 
 disini ada beberapa edit yang saya buat.
 pertama ukuran array buat charnya saya gedein, biar nama saya muat
-lalu saya ganti data type nrp dari integer menjadi long long, karena 2^32 ga nyampe 50xxxxxxxx
+lalu saya ganti data type nrp dari integer menjadi long long, karena 2^32 ga nyampe 50xxxxxxxx, jadi kalo saya prodi d4 ya ga akan saya ganti
 
 ![int main, second image](img/main1.png)
 
