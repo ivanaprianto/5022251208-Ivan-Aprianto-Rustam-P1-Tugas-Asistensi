@@ -1,5 +1,8 @@
 # halo
 seperti instruksi yang diberikan, saya telah membenarkan kode dan menambahkan beberapa fitur, tapi sebelum mulai saya ingin minta maaf atas tampilan yang membosankan, karena saya edit pake nano di terminal saya
+saya juga maaf keluarannya .out karena saya pengguna macos (harap compile sendiri)
+
+program dicompile gcc-17
 
 # CODE
 
