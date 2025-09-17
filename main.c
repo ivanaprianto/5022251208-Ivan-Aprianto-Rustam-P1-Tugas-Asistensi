@@ -117,7 +117,7 @@ int main()
         printf("Indeks nilai matkul %d: %s\n", j + 1, index_nilai(matkul[j]));
     }
     float ip = kalkulasi_ip(matkul, sks, n);
-    printf("Indeks Prestasi (IP): %.2f (%s)\n", ip , index_nilai(ip));
+    printf("Indeks Prestasi (IP): %.2f (%s)\n", (ip / 25.00) , index_nilai(ip));
 
 
     free(matkul); 
